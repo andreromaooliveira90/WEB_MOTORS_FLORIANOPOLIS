@@ -1,0 +1,39 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos locais/temporários
+*.log
+*.tmp
+
+# Arquivo auxiliar do projeto (se não quiser versionar)
+criar_estrutura_projeto.txt
+dados_old.py
+
+.env
+.env.*
+
+# Perfis/sessões de navegador (Playwright/Selenium/Chrome profile)
+perfil_webmotors/
+
+# Logs e artefatos
+*.log
+*.old
+*.dat
+*.journal
+*.lock
